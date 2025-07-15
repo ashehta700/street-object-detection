@@ -33,12 +33,12 @@ Below are some screenshots from the app showcasing detections and GeoJSON output
 
 ### Output of Model Detection on Building and Select the version of Model and Download the geojson file
 
-![Download & Model Selection](https://github.com/ashehta700/street-object-detection/blob/main/screeen2.jpg)
+![Download & Model Selection](https://github.com/ashehta700/street-object-detection/blob/main/screen2.jpg)
 
 
 ### GeoJSON Export Example in QGIS
 
-![GeoJSON in QGIS](https://github.com/ashehta700/street-object-detection/blob/main/screeen3.jpg)
+![GeoJSON in QGIS](https://github.com/ashehta700/street-object-detection/blob/main/screen3.jpg)
 
 ---
 
