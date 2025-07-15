@@ -8,8 +8,8 @@ import pandas as pd
 import math
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
-MODEL_ID       = "x1-ve1ly-d7yt7/3"
-API_KEY        = "HDnTAGVBxGfDBvXhboH5"
+MODEL_ID       = "YOUR Model ID "
+API_KEY        = "Your API Key "
 META_CSV       = "image_metadata.csv"      # must live next to this script
 BBOX_THICKNESS = 20                        # pixels
 LABEL_SCALE    = 3                         # font size (increase if you want)
