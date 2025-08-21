@@ -45,8 +45,7 @@ Below are some screenshots from the app showcasing detections and GeoJSON output
 🎥 **Watch the demo video on YouTube:**
 [![YouTube Demo]](https://www.youtube.com/watch?v=ufp4L9oTiP8)
 
-Or click here to watch:
-[https://youtu.be/YOUR\_YOUTUBE\_VIDEO\_ID](https://www.youtube.com/watch?v=ufp4L9oTiP8)
+
 
 ---
 
